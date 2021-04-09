@@ -7,6 +7,11 @@ tagline: Royals community for fans
 
 [**Home**](/index.md) | [Calendar](/calendar.md) | [Statistics](/statistics.md) | [Forum](/forum.md) | [Photo Gallery](/photos.md) | [About & Contact](/about_contact.md)
 
+| Priority apples | Second priority | Third priority |
+|-------|--------|---------|
+| ambrosia | gala | red delicious |
+| pink lady | jazz | macintosh |
+| honeycrisp | granny smith | fuji |
 
 # Kansas City Royals Social media
 | Twitter | Facebook | Instagram |

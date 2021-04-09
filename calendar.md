@@ -5,7 +5,7 @@ tagline: Royals community for fans
 # description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
-[Home](/index.md) | [**Calendar**](/calendar.md) | [Statistics](/statistics.md) | [Forum](/forum.md) | [Photo Gallery](/photos.md) | [About & Contact](/about_contact.md)
+[Home](/index.md) - [**Calendar**](/calendar.md) - [Statistics](/statistics.md) - [Forum](/forum.md) - [Photo Gallery](/photos.md) - [About & Contact](/about_contact.md)
 
 
 # Kansas City Royals Calendar
